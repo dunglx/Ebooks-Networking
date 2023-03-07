@@ -1,0 +1,3 @@
+[submodule "Xu-ly-data"]
+	path = Xu-ly-data
+	url = https://github.com/dunglx/Xu-ly-data.git
